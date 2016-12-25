@@ -1,0 +1,110 @@
+    ======  ======
+    Time:12/25/2016 12:26:12 PM
+    Title: Initiate log
+    Message: 
+    Time:12/25/2016 12:26:12 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:12/25/2016 12:26:12 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:12/25/2016 12:26:12 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:12/25/2016 12:26:12 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:12/25/2016 12:26:12 PM
+    Title: LICENSER
+    Message: DS LEFT-7
+    Time:12/25/2016 12:26:12 PM
+    Title: LICENSER
+    Message: DT MARK PASSED-7.00:00:00
+    Time:12/25/2016 12:26:12 PM
+    Title: ILMValidate action
+    Message: LIC
+    Time:12/25/2016 12:26:12 PM
+    Title: Access to the path 'C:\ProgramData\Telerik\Hash.lic' is denied.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:12/25/2016 12:26:12 PM
+    Title: LICENSER - TGO
+    Message: Start
+    Time:12/25/2016 12:26:15 PM
+    Title: LICENSER - TGO
+    Message: Object reference not set to an instance of an object.
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=153&lastChangeId64=153] (GET)connectionData[connectionData]
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM:  - TokenCache: Deserialized 2 items to token cache.
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM:  - AuthenticationContext: ADAL .NET with assembly version '2.16.0.0', file version '2.16.20422.1202' and informational version '7329346b1c69910ce7abd66c3f8a918c307827a1' is running...
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (2 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - TokenCache: An item matching the requested resource was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - TokenCache: An expired or near expiry token was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - TokenCache: A matching item (access token or refresh token or both) was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:36 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - <RefreshAccessTokenAsync>d__11: Refreshing access token...
+    devenv.exe Information: 0 : 12/25/2016 5:31:37 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 12/25/2016 5:31:37 AM: 7df076c5-e81f-4d1c-92c2-0ab2111f98ce - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (2 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - TokenCache: An item matching the requested resource was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - TokenCache: An expired or near expiry token was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - TokenCache: A matching item (access token or refresh token or both) was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - <RefreshAccessTokenAsync>d__11: Refreshing access token...
+    devenv.exe Information: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 12/25/2016 5:31:38 AM: 49d77221-b8fe-4bc2-a3cb-0675452c1cdf - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/
+	Resource: 499b84ac-1321-427f-aa17-267ca6975798
+	ClientId: 872cd9fa-d31f-45e0-9eab-6e460a02d1f1
+	CacheType: Microsoft.VisualStudio.Services.Client.AccountManagement.AccountManagerAdalCache (2 items)
+	Authentication Target: User
+	
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - TokenCache: Looking up cache for a token...
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - TokenCache: An item matching the requested resource was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - TokenCache: An expired or near expiry token was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - TokenCache: A matching item (access token or refresh token or both) was found in the cache
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - <RefreshAccessTokenAsync>d__11: Refreshing access token...
+    devenv.exe Information: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - AcquireTokenSilentHandler: No token matching arguments found in the cache
+    devenv.exe Error: 0 : 12/25/2016 5:31:39 AM: 46b57c0e-2626-42a4-a21c-11f361f0284b - <RunAsync>d__0: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalSilentTokenAcquisitionException: Failed to acquire token silently. Call method AcquireToken
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenSilentHandler.SendTokenRequestAsync()
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AcquireTokenHandlerBase.<RunAsync>d__0.MoveNext()
+	ErrorCode: failed_to_acquire_token_silently
+    Web method running: [https://app.vssps.visualstudio.com/_apis/Token/SessionTokens?isPublic=False] (POST)SessionTokens[Token]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=153&lastChangeId64=153] (GET)connectionData[connectionData]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=153&lastChangeId64=153] (GET)connectionData[connectionData] 1011 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=12692&lastChangeId64=12692] (GET)connectionData[connectionData]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=12692&lastChangeId64=12692] (GET)connectionData[connectionData] 1062 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 993 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 240 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 238 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=509294] (GET)Attributes[Profile]
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile]
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=509294] (GET)Attributes[Profile] 308 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 976 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile] 1217 ms

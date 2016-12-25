@@ -1,0 +1,37 @@
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\Web Service.dll.config
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\Web Service.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\Web Service.pdb
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\EntityFramework.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\HtmlAgilityPack.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\Microsoft.Web.Infrastructure.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\Newtonsoft.Json.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Net.Http.Formatting.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Cors.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Helpers.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.Cors.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.Tracing.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.WebHost.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Mvc.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Razor.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.WebPages.Deployment.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.WebPages.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.WebPages.Razor.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\EntityFramework.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\HtmlAgilityPack.pdb
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\HtmlAgilityPack.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\Newtonsoft.Json.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Net.Http.Formatting.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Helpers.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.Cors.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.Tracing.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Http.WebHost.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Mvc.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.Razor.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.WebPages.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.WebPages.Deployment.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\bin\System.Web.WebPages.Razor.xml
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\obj\Debug\Web Service.dll
+E:\Document Study\HK1 Nam 4\Kiem chung phan mem\Do an cuoi ki\Server\Web Service\obj\Debug\Web Service.pdb
